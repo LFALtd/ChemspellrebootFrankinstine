@@ -40,6 +40,7 @@ var fontColor = {
   blue: "white",
   purple: "white",
   fuchsia: "white"
+Transparent: "Black"
 }
 
 function toggleOptions() {
